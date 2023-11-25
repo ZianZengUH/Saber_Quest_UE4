@@ -3,6 +3,17 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusOpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
