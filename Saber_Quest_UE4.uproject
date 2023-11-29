@@ -5,11 +5,9 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OculusOpenXR",
-			"Enabled": true,
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
 				"Android"
 			]
 		}
