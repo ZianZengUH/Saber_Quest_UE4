@@ -74,5 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Ignore map folders in the Unused directory
-/Content/Maps/*
+/Content/Resources/*
 /Content/STF/*
+/Content/MS_CyberpunkV1/*
+/Content/MOUT_Fabrication/*
