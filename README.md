@@ -26,17 +26,17 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 ## 📸 Screenshots
 
 ### Daytime Battle
-![Daytime Battle](/Saber Quest Day.png)
+![Daytime Battle](Saber%20Quest%20Day.png)
 
-### Nightfall Scenes 
-![Nightfall Encounter](/Saber Quest Night 1.png)
-![Nightfall Encounter](/Saber Quest Night 2.png)
-![Nightfall Encounter](/Saber Quest Night 3.png)
+### Nightfall Scenes
+![Nightfall Encounter 1](Saber%20Quest%20Night%201.png)
+![Nightfall Encounter 2](Saber%20Quest%20Night%202.png)
+![Nightfall Encounter 3](Saber%20Quest%20Night%203.png)
 
 ---
 
 ## 🎥 Demo Video
-🔗 **Watch on YouTube:** [Click Here](https://www.youtube.com/watch?v=B-_Ja-a5DHo)
+[![Watch the demo](https://img.youtube.com/vi/B_-Ja-a5DHo/0.jpg)](https://www.youtube.com/watch?v=B_-Ja-a5DHo)
 
 ---
 
