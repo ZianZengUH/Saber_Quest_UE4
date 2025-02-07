@@ -24,18 +24,17 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 ## 📸 Screenshots
 
 ### Daytime Battle
-![Daytime Battle](images/daytime_battle.jpg)
+![Daytime Battle](Saber Quest Day.png)
 
-### Nightfall Encounter
-![Nightfall Encounter](images/nightfall_encounter.jpg)
-
-### Wielding the Lightsaber
-![Lightsaber Combat](images/lightsaber_combat.jpg)
+### Nightfall Scenes 
+![Nightfall Encounter](Saber Quest Night 1.png)
+![Nightfall Encounter](Saber Quest Night 2.png)
+![Nightfall Encounter](Saber Quest Night 3.png)
 
 ---
 
 ## 🎥 Demo Video
-🔗 **Watch on YouTube:** [Click Here](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+🔗 **Watch on YouTube:** [Click Here](https://www.youtube.com/watch?v=B-_Ja-a5DHo)
 
 ---
 
@@ -51,4 +50,5 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 1. Download and install **Unreal Engine 4**.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/echoes-of-the-fallen.git
+   git clone https://github.com/ZianZengUH/Saber_Quest_UE4.git
+3. Download any missing assets   
