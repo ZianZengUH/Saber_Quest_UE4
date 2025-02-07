@@ -6,10 +6,12 @@ _In a vast, desolate desert where time fractures between day and night, you retu
 
 _The dramatic, sorrowful score follows your every move, whispering of the love you lost, the vengeance that drives you. Is this your redemption, or just a cycle of endless despair? The past won’t stay buried, and neither will they._
 
-_Built-in **Unreal Engine 4** for **Meta Quest 3**, Echoes of the Fallen delivers a raw, immersive combat experience where time and fate are your greatest enemies. Fight. Survive. End it._
+_Echoes of the Fallen delivers a raw, immersive combat experience where time and fate are your greatest enemies. Fight. Survive. End it._
 ___________________________________________________________________________________________
 
+
 A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time fractures between day and night in a desolate desert. Use your **hands to grab and throw objects**, and wield a **lightsaber to fight off relentless zombies** as you uncover the tragic past that led you here.
+
 
 ---
 
@@ -24,12 +26,12 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 ## 📸 Screenshots
 
 ### Daytime Battle
-![Daytime Battle](Saber Quest Day.png)
+![Daytime Battle](/Saber Quest Day.png)
 
 ### Nightfall Scenes 
-![Nightfall Encounter](Saber Quest Night 1.png)
-![Nightfall Encounter](Saber Quest Night 2.png)
-![Nightfall Encounter](Saber Quest Night 3.png)
+![Nightfall Encounter](/Saber Quest Night 1.png)
+![Nightfall Encounter](/Saber Quest Night 2.png)
+![Nightfall Encounter](/Saber Quest Night 3.png)
 
 ---
 
