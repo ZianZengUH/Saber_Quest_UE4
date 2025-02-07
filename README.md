@@ -13,15 +13,12 @@ ________________________________________________________________________________
 A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time fractures between day and night in a desolate desert. Use your **hands to grab and throw objects**, and wield a **lightsaber to fight off relentless zombies** as you uncover the tragic past that led you here.
 
 
----
-
 ## 🎮 Features
 - **Hand Interaction**: Grab, throw, and interact with objects in a fully immersive environment.
 - **Lightsaber Combat**: Slice through zombies with precision.
 - **Time-Shifting World**: Experience the same desert at different times, with evolving surroundings.
 - **Dramatic Storytelling**: A heart-wrenching journey driven by sorrowful, cinematic music.
 
----
 
 ## 📸 Screenshots
 
@@ -33,12 +30,10 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 ![Nightfall Encounter 2](Saber%20Quest%20Night%202.png)
 ![Nightfall Encounter 3](Saber%20Quest%20Night%203.png)
 
----
 
 ## 🎥 Demo Video
-[![Watch the demo](https://img.youtube.com/vi/B_-Ja-a5DHo/0.jpg)](https://www.youtube.com/watch?v=B_-Ja-a5DHo)
+[![Watch the demo](https://img.youtube.com/vi/B-_Ja-a5DHo/0.jpg)](https://www.youtube.com/watch?v=B-_Ja-a5DHo)
 
----
 
 ## 🛠️ Technologies Used
 - **Unreal Engine 4** (Optimized for **Quest 3**)
@@ -46,7 +41,6 @@ A VR action game built in **Unreal Engine 4** for **Meta Quest 3**, where time f
 - **Dynamic Environment System** with time-based changes
 - **AI-driven Zombies** for an intense combat experience
 
----
 
 ## 🚀 Installation & Setup
 1. Download and install **Unreal Engine 4**.
